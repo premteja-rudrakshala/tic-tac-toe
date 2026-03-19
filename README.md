@@ -1,2 +1,2 @@
 # tic-tac-toe
-it is a basic game of tic tac toe
+It is a basic game of tic tac toe
